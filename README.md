@@ -30,4 +30,4 @@ On the test set, the model achieved:
 - **Test Loss:** 0.0771  
 - **Test Accuracy:** 100.00%
 
-![Training Loss and Accuracy]()
+![Training Loss and Accuracy](output.png)
