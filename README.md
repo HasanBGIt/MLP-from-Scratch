@@ -1,5 +1,3 @@
-# MLP-from-Scratch
-This project demonstrates building a Multi-Layer Perceptron (MLP) neural network from scratch in Basic Python ONLY, WITHOUT ANY LIBRARIES.
 # MLP from Scratch on Iris Dataset
 
 This repository implements a simple Multi-Layer Perceptron (MLP) neural network **from scratch** in Python, without using any deep learning frameworks. The model is trained and evaluated on the classic Iris dataset.
