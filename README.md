@@ -4,14 +4,6 @@ This project demonstrates building a Multi-Layer Perceptron (MLP) neural network
 
 This repository implements a simple Multi-Layer Perceptron (MLP) neural network **from scratch** in Python, without using any deep learning frameworks. The model is trained and evaluated on the classic Iris dataset.
 
-## Features
-
-- Custom automatic differentiation using a `Value` class for backpropagation.
-- Neuron, Layer, and MLP classes with ReLU activation support.
-- Training loop with Mean Squared Error (MSE) loss and gradient descent optimization.
-- Preprocessing with data normalization and one-hot encoding.
-- Visualizations of training loss and accuracy.
-
 ## Results
 
 The MLP model was trained on the Iris dataset for 100 epochs. Below are key performance milestones during training:
